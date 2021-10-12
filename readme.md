@@ -11,3 +11,5 @@
 	- Sempre que executa algum comando tem um comportamento parecido com o makefile, vai para o diretorio raiz e executa, de forma que atrapalha algumas automatizações.
 
 - Durante o uso do SSH, do nada apareceu uma mensagem dizendo que nao conseguia me conectar e tive que reconectar. Demorou uns 4 minutos para voltar e todas as vezes que tentei deu erro. Testei a internet e estava normal. 
+
+- As configurações do VsCode sempre sao resetadas, por exemplo eu gosto de usar o terminal na direita, sempre que relogo no workspace preciso reconfigurar!
