@@ -4,7 +4,9 @@
 
 - Quando fui user o git, deu erro com a autenticação, mesmo apos aceitar o uso ele nao vai. Como solução configurei o user no global, nao funcionou.
 
-- Ao utilizar o meu script de automatização no workspace, deu problemas com duas coisas:
+-  Devido aos problemas de configuração do git workspace via internet, foi escolhido usar a conexao ssh com meu vs code mesmo!
+
+- Ao utilizar o meu script de automatização, deu problemas com duas coisas:
 	- Ele nao consegue reconfigurar o PS1
 	- Sempre que executa algum comando tem um comportamento parecido com o makefile, vai para o diretorio raiz e executa, de forma que atrapalha algumas automatizações.
 
